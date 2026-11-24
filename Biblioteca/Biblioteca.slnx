@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Escritorio/Escritorio.csproj" Id="c895c07b-25c0-44bc-b9cc-288f52f27a7b" />
+  <Project Path="Biblioteca.csproj" Id="69901999-dcb9-499f-a11c-e38790f4f27b" />
+</Solution>
